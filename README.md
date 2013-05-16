@@ -1,10 +1,5 @@
-A Minimal RestExpress Server
-============================
-A template RestExpress project that contains minimal external dependencies.
+dropwizard-loader
+=================
 
-To run the project:
-	mvn clean package exec:java
+Easy to develop the restful service for Dropwizard
 
-To create a project deployable assembly (zip file):
-	mvn clean package
-	mvn assembly:single
